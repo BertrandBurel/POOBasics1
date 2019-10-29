@@ -1,6 +1,6 @@
 <?php
 
-class car
+class Car
 {
     /**
      * @var integer
